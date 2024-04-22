@@ -4,8 +4,7 @@ This is a Machine Learning Project about Loan Data from a Bank Company. For this
 We will use lending data from 2007-2010 and be trying to classify and predict whether or not the borrower paid back their loan in full. You can download the data from here or just use the csv already provided.
 
 Melisa Damayanti
-January 2023
-Source : Udemy Course
+Jan 2023
 
 COLUMN DESCRIPTIONS
 1. credit.policy: 1 if the customer meets the credit underwriting criteria of LendingClub.com, and 0 otherwise.
